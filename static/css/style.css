@@ -1,0 +1,60 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  padding: 10px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.legend p {
+  margin: 0;
+}
+
+.legtext {
+  margin: 10px;
+  line-height: 18px;
+}
+
+.square {
+  width: 40px;
+  height: 18px;
+  float: left;
+  margin-bottom: 0px;
+  margin-right: 5px;
+  clear: both;
+  
+}
+
+.color1 {
+  background-color: #a3f600;
+}
+
+.color2 {
+  background-color: #dcf400;
+}
+
+.color3 {
+  background-color: #f7db11;
+}
+
+.color4 {
+  background-color: #fdb72a;
+}
+
+.color5 {
+  background-color: #fca35d;
+}
+
+.color6 {
+  background-color: #ff5f65;
+}
